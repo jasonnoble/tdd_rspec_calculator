@@ -1,4 +1,4 @@
-source :rubygems
+source 'https://rubygems.org'
 
 gem 'guard-rspec'
 gem 'rb-fsevent'
